@@ -1,15 +1,27 @@
-# learning-python
+# 🐍 learning-python
 
-This repository contains my Python learning journey as a beginner. It includes basic to intermediate concepts such as:
+Welcome to my Python learning journey!  
+This repository contains a collection of simple and beginner-friendly Python programs that I’ve created while learning the language.
 
-- Loops and conditionals
-- Functions and recursion
-- Object-Oriented Programming (OOP)
-- Decorators (`@property`, `@classmethod`)
-- Simple games (Snake Water Gun)
-- Unit converters and calculators
+## 📚 Topics Covered:
+- ✅ Basic input/output and variables  
+- 🔁 Loops (`for`, `while`) and conditional statements  
+- 🧮 Functions and recursion (factorial, sum of numbers, etc.)  
+- 🧠 Object-Oriented Programming (classes, `@property`, `@classmethod`)  
+- 🎮 Mini projects (Snake Water Gun game)  
+- 🔢 Unit converters (temperature, currency, length)  
+- 📐 Math operations (square, cube, root functions)
 
-Each file is a mini-project or practice script for mastering specific topics in Python.
+## 💻 Purpose:
+This repo serves as my personal practice ground to strengthen my Python basics, build confidence in programming, and prepare myself for AIML projects and internships.
 
-## 📅 Started: July 2025
-## 💻 Goal: Build a strong foundation in Python for AIML career path
+## 🚀 Next Goals:
+- Practice more real-world mini-projects  
+- Start working with data using libraries like `pandas`, `numpy`, and `matplotlib`  
+- Explore beginner-level machine learning concepts
+
+## 📅 Started:
+**July 2025**
+
+## 👨‍💻 Author:
+Tejavardhan Chevva
