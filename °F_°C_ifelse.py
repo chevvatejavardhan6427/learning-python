@@ -1,5 +1,5 @@
-tem=float(input("enter temperature F/C: "))
-unit=(input("enter unit in which tem is calculated :").upper())
+tem=float(input("enter temperature : "))
+unit=(input("enter unit in which tem is calculated F/C :").upper())
 if unit=="F":
 	print(f"{tem}°F={round(5/9*(tem-32),2)}°C")
 elif unit=="C":
