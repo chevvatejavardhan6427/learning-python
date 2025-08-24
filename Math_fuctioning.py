@@ -25,3 +25,14 @@ import math
 print(math.sqrt(9))# to get square root
 print(math.pi)#π value
 print(math.e)# e value
+
+# //( floor division)
+7//3=2 
+'''7/3=2.3333 but it removes all the decimals
+insted we can also use int(7/3)'''
+
+#\r(carriage return)
+#Python, \r is used to move the cursor back to the beginning of the current line so the next output overwrites it
+print("hello Teja vardhan)
+print("hello \rvadhan)
+
